@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+*.whl
+
+# 虚拟环境
+venv/
+env/
+.venv/
+
+# 数据文件
+*.csv
+*.xlsx
+*.json
+
+# 配置（包含密钥）
+.env
+config_local.py
+
+# IDE
+.vscode/
+.idea/
+*.swp
